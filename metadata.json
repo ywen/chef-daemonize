@@ -1,0 +1,43 @@
+{
+  "description": "daemonize",
+  "long_description": "daemonize",
+  "providing": {
+  },
+  "attributes": {
+  },
+  "maintainer": "Opscode, Inc.",
+  "recipes": {
+    "java": "Installs openjdk to provide Java"
+  },
+  "replacing": {
+  },
+  "dependencies": {
+  },
+  "maintainer_email": "cookbooks@opscode.com",
+  "groupings": {
+  },
+  "platforms": {
+    "debian": [
+
+    ],
+    "fedora": [
+
+    ],
+    "centos": [
+
+    ],
+    "ubuntu": [
+
+    ],
+    "redhat": [
+
+    ]
+  },
+  "version": "0.10.3",
+  "recommendations": {
+  },
+  "license": "Apache 2.0",
+  "name": "yotpo-hadoop",
+  "suggestions": {
+  }
+}
